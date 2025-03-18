@@ -7,7 +7,7 @@ public class Candy
    
     public String getFlavor() 
     {
-    return null;
+    return flavor;
     }
     
     public String toString() {
